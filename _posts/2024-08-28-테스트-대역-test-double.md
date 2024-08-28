@@ -3,7 +3,7 @@ layout: post
 title: 테스트 대역(代役) (Test Double)
 author: gosqo
 date: 2024-08-28 16:00
-categories: test
+categories: 테스트
 ---
 
 > 문서 업데이트: 2024-08-28
@@ -79,3 +79,4 @@ categories: test
 * 계층간 의존을 끊어내고, 기술에 의존도를 낮추는 것이 흥미롭습니다. 프로젝트에 적용해봐야겠습니다.
 
 참고: 도서 [[자바/스프링 개발자를 위한 실용주의 프로그래밍] / 김우근 지음](https://product.kyobobook.co.kr/detail/S000213447953)
+
