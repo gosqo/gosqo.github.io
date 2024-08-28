@@ -23,7 +23,7 @@ author: Rla Gosqo
 email: vongright@gmail.com
 description: # >- # this means to ignore newlines until "baseurl:"
   Some of works that applied to my codes.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gosqo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  gosqo
