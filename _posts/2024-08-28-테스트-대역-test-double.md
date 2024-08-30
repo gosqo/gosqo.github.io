@@ -2,13 +2,14 @@
 layout: post
 title: 테스트 대역(代役) (Test Double)
 author: gosqo
-date: 2024-08-28 16:00 + 09:00
+date: 2024-08-28 16:00
 categories: 테스트
 ---
 
 > 문서 업데이트: 2024-08-28
 
-![대역의 정의 [뉴에이스 국어사전]](/assets/img/2024-08-28-테스트-대역-test-double/대역-정의.png)
+![대역의 정의 []](/assets/img/2024-08-28-테스트-대역-test-double/대역-정의.png)
+<div dir=rtl>뉴에이스 국어사전 - </div>
 
 어떠한 범위를 나타내는 대역이 아니라, 실제를 대신하는 그 대역이라고 합니다.   
 영어로는 double.
