@@ -2,7 +2,6 @@
 layout: post
 title: JPA, Hibernate 컬럼 default 값의 처리
 author: gosqo
-date: 2024-08-17 19:00
 categories: JPA
 ---
 

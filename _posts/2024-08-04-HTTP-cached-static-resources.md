@@ -2,7 +2,6 @@
 layout: post
 title: HTTP cached static resources
 author: gosqo
-date: 2024-08-04 18:18
 categories: HTTP Storage
 ---
 

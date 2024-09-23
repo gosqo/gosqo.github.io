@@ -2,7 +2,6 @@
 layout: post
 title: 테스트 대역(代役) (Test Double)
 author: gosqo
-date: 2024-08-28 16:00
 categories: 테스트
 ---
 

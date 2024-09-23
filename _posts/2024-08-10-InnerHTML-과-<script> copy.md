@@ -2,7 +2,6 @@
 layout: post
 title: Element.innerHTML 과 <script></script>
 author: gosqo
-date: 2024-08-08 19:00
 published: false
 ---
 

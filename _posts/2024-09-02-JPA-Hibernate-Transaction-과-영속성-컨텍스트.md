@@ -3,7 +3,6 @@ layout: post
 title: JPA Hibernate Transaction과 영속성 컨텍스트
 author: gosqo
 categories: JPA 영속성-컨텍스트
-comment_issue_id: 1
 ---
 
 > 문서 업데이트: 2024-09-03

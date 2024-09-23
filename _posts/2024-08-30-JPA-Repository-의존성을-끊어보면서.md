@@ -2,7 +2,6 @@
 layout: post
 title: JPA Repository 의존성을 끊어보면서 (Fake Object 를 만들어 보자)
 author: gosqo
-# date: 2024-08-30 07:00
 categories: 테스트 의존성
 ---
 
