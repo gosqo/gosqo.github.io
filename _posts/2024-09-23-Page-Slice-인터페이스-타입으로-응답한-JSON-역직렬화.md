@@ -66,7 +66,7 @@ void getCommentsSlice() {
 
 ```
 
-<br />
+<!-- <br /> -->
 
 
 매핑을 위한 커스텀 구체 클래스는 `Slice<T>` 객체를 응답 본문으로 삼고 있기 때문에 약간의 조정을 통해 아래와 같이 `CustomSliceImpl` 클래스를 작성했습니다.   
@@ -79,7 +79,7 @@ void getCommentsSlice() {
 를 기본으로 두었는데, 매핑이 적용된 이후 아래 두 생성자를 제거해도 잘 동작이 되고 있습니다.
 
 
-<br />
+<!-- <br /> -->
 
 ```java
 public class CustomSliceImpl<T> extends SliceImpl<T> {
