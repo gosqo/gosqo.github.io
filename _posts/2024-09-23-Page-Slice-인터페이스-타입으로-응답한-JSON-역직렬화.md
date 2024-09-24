@@ -8,7 +8,7 @@ categories: SpringBoot Test
 개인 프로젝트 개선 작업과 테스트 중 마주친 JSON 객체 역직렬화에 대해 기록을 남깁니다.   
 학습하는 단계에서 문제를 해결하며 기록한 글이라 이해와 설명이 부족한 부분이 있습니다.
 
-[작업 내용](https://github.com/gosqo/manidues/commit/cd796fb918f00887cc048150e6cb3b9272c20e86)
+[작업 내용](https://github.com/gosqo/manidues/commit/cd796fb918f00887cc048150e6cb3b9272c20e86){:target="_blank"}
 
 ## 배경
 
@@ -40,8 +40,8 @@ abstract types either need to be mapped to concrete types, have custom deseriali
 
 ## 해결 과정
 
-* [stack overflow question: Spring Boot Page Deserialization - PageImpl No constructor](https://stackoverflow.com/questions/52490399/spring-boot-page-deserialization-pageimpl-no-constructor)
-* [Baeldung: Consuming Page Entity Response From RestTemplate](https://www.baeldung.com/resttemplate-page-entity-response)
+* [stack overflow question: Spring Boot Page Deserialization - PageImpl No constructor](https://stackoverflow.com/questions/52490399/spring-boot-page-deserialization-pageimpl-no-constructor){:target="_blank"}
+* [Baeldung: Consuming Page Entity Response From RestTemplate](https://www.baeldung.com/resttemplate-page-entity-response){:target="_blank"}
 
 두 참고 자료를 통해 추상 타입으로 응답 받은 JSON 데이터를 자박 객체에 매핑하는 방법을 알게 됐습니다.
 

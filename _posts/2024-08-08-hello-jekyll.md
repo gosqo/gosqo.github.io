@@ -25,7 +25,21 @@ Front Matters
 
 **data**: yyyy-MM-dd hh:mm # 까지만 해도 인식. 필요하다면 `yyyy-MM-dd hh:mm:ss +0900` [UTC+] 의 형식으로   
 **author**: 문서 작성자   
-**categories**: super sub sub # `yyyy/MM/dd/super/sub/sub/title` 의 구조로 정리된다.   
+**categories**:   
+> &emsp;Super Sub Sub
+
+&emsp;해당 value 입력 시, 계층 구조 좌 -> 우 구분은 **공백**
+
+혹은
+>
+&emsp;\- Super   
+&emsp;\- Sub   
+&emsp;\- Sub   
+
+&emsp;형태로도 지정. 계층 구조는 위 -> 아래   
+`yyyy/MM/dd/super/sub/sub/title` 의 구조로 정리된다
+
+**category**: 단수형으로 카테고리 하나만 설정. 이 경우 공백을 카테고리 명으로 포함.
 \-\-\-   
 
 **Front Matters 에 쓰인 정보가 우선적으로** 적용,   
@@ -80,7 +94,7 @@ public class Hello {
 }
 ```
 
-we can write down like [**this**](https://www.markdownguide.org/cheat-sheet/#basic-syntax).
+we can write down like [**this**](https://www.markdownguide.org/cheat-sheet/#basic-syntax){:target="_blank"}.
 
 ---
 ---

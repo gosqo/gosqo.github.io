@@ -7,7 +7,7 @@ published: false
 
 Spring Boot, JavaScript 기반
 
-[개인 프로젝트](https://flyin-heron.duckdns.org)에 게시물 본문 중 url 형식의 문자열이 있다면, 하이퍼 링크로 변경하는 기능을 추가했다.   
+[개인 프로젝트](https://flyin-heron.duckdns.org){:target="_blank"}에 게시물 본문 중 url 형식의 문자열이 있다면, 하이퍼 링크로 변경하는 기능을 추가했다.   
 
 기능에 대해서 자세히 하자면,
 1. 서버로 부터 뷰 템플릿(`.html` 파일)을 가져온다. ()

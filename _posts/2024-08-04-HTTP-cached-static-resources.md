@@ -64,4 +64,4 @@ HTML 이 초기화(호출)하는 index.js 는 여전히 파일명이 같기 때�
 
 
 * webpack 을 이용하면 이런 문제를 보다 손쉽게, 효율적으로 해결할 수 있는 것으로 보임.
-* 토스 기술 블로그를 참조하면, 배포 마다 버전을 식별하는 디렉토리 해시값, 파일 해시값을 사용해, 캐시 기간을 길게 가져가되, 파일의 최신화를 사용하고 있다고 함. [링크](https://toss.tech/article/smart-web-service-cache)
+* 토스 기술 블로그를 참조하면, 배포 마다 버전을 식별하는 디렉토리 해시값, 파일 해시값을 사용해, 캐시 기간을 길게 가져가되, 파일의 최신화를 사용하고 있다고 함. [링크](https://toss.tech/article/smart-web-service-cache){:target="_blank"}

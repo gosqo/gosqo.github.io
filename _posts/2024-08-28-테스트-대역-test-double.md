@@ -78,5 +78,5 @@ categories: 테스트
 * Mockito 의 등장 배경을 본 것 같아 흥미로웠습니다.   
 * 계층간 의존을 끊어내고, 기술에 의존도를 낮추는 것이 흥미롭습니다. 프로젝트에 적용해봐야겠습니다.
 
-참고: 도서 [[자바/스프링 개발자를 위한 실용주의 프로그래밍] / 김우근 지음](https://product.kyobobook.co.kr/detail/S000213447953)
+참고: 도서 [[자바/스프링 개발자를 위한 실용주의 프로그래밍] / 김우근 지음](https://product.kyobobook.co.kr/detail/S000213447953){:target="_blank"}
 

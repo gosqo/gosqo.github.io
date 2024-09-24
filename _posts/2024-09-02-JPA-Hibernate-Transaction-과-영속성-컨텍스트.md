@@ -284,7 +284,7 @@ void initData() {
 
 ### Spring 공식 문서 test transaction (class TestTransaction)
 
-[Test-managed Transactions](https://docs.spring.io/spring-framework/reference/testing/testcontext-framework/tx.html#testcontext-tx-test-managed-transactions)
+[Test-managed Transactions](https://docs.spring.io/spring-framework/reference/testing/testcontext-framework/tx.html#testcontext-tx-test-managed-transactions){:target="_blank"}
 을 살펴보면
 
 > Note that `@Transactional` is not supported on test lifecycle methods —
